@@ -12,5 +12,6 @@ I have produced 5 different fractals using this approach, present in the resposi
 Apart of this approach the following fractals have been produced by nested loops.
 ![06SpheresOutside](https://github.com/user-attachments/assets/46251b2b-c565-4176-be79-36bfacfdecea)
 ![07SpheresInsidea](https://github.com/user-attachments/assets/84e9ba24-b1b8-4c78-8b6c-77b8f3111ee7)
+![08SpheresInsideb](https://github.com/user-attachments/assets/1bbd0df2-4eb3-49e0-adf3-d36fdd381bdd)
 ![09Romanesco](https://github.com/user-attachments/assets/6d48fef7-1b5a-4c0e-ba04-2fbdf62a1dc0)
 ![10FractalBoxes](https://github.com/user-attachments/assets/fff32c28-6aa8-4184-b8a4-a979e01aa5a5)
