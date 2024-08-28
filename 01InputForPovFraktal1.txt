@@ -1,0 +1,2015 @@
+//Kamera aus der z-Richtung
+#declare Objekt = cylinder { <0, 0, 0>, <0, 1, 0>, 0.05}
+#declare Winkel = 0;
+#declare P1 = <0, 0, 0>; 
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, -90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
+#declare Winkel = Winkel + <0, 0, 90>;
+object {Objekt
+rotate Winkel
+translate P1
+}
+#declare PObjekt = <0, 1, 0>;
+#declare PObjekt = vrotate (PObjekt, Winkel);
+#declare P1 = P1 + PObjekt;
